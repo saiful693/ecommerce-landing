@@ -1,0 +1,214 @@
+[
+    {
+        "id": 1,
+        "name": "Half Sleeve Shirt",
+        "price": 2300,
+        "image": "https://i.imgur.com/DdUCzSK.jpg",
+        "images": [
+            "https://i.imgur.com/DdUCzSK.jpg",
+            "https://i.imgur.com/iGJWjdd.png",
+            "https://i.imgur.com/ieKVN7Z.png"
+        ],
+        "discount": "Up to 40%",
+        "rating": 4,
+        "reviews": 50,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "Red",
+            "Blue",
+            "Black",
+            "White"
+        ],
+        "description": "A stylish half sleeve shirt perfect for casual outings, made from high-quality cotton fabric for comfort and durability.",
+        "stock": "In Stock"
+    },
+    {
+        "id": 2,
+        "name": "Half Sleeve Shirt",
+        "price": 1500,
+        "image": "https://i.imgur.com/iGJWjdd.png",
+        "images": [
+            "https://i.imgur.com/iGJWjdd.png",
+            "https://i.imgur.com/WeTl5xL.png",
+            "https://i.imgur.com/DdUCzSK.jpg"
+        ],
+        "discount": "Up to 30%",
+        "rating": 3,
+        "reviews": 30,
+        "sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "colors": [
+            "Grey",
+            "Green",
+            "Navy"
+        ],
+        "description": "This half sleeve shirt is a great choice for a laid-back day, combining comfort with style.",
+        "stock": "Limited Stock"
+    },
+    {
+        "id": 3,
+        "name": "Woman wearing sari",
+        "price": 3200,
+        "image": "https://i.imgur.com/ieKVN7Z.png",
+        "images": [
+            "https://i.imgur.com/ieKVN7Z.png",
+            "https://i.imgur.com/DdUCzSK.jpg",
+            "https://i.imgur.com/iGJWjdd.png"
+        ],
+        "discount": "Up to 25%",
+        "rating": 5,
+        "reviews": 70,
+        "sizes": [
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "Red",
+            "Gold",
+            "Blue"
+        ],
+        "description": "A beautiful sari for women that combines elegance and tradition, perfect for special occasions.",
+        "stock": "In Stock"
+    },
+    {
+        "id": 4,
+        "name": "Checkered shirt",
+        "price": 4500,
+        "image": "https://i.imgur.com/WeTl5xL.png",
+        "images": [
+            "https://i.imgur.com/WeTl5xL.png",
+            "https://i.imgur.com/ieKVN7Z.png",
+            "https://i.imgur.com/DdUCzSK.jpg"
+        ],
+        "discount": "Up to 50%",
+        "rating": 4,
+        "reviews": 40,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XXL"
+        ],
+        "colors": [
+            "Black/White",
+            "Red/White",
+            "Blue/White"
+        ],
+        "description": "A classic checkered shirt that adds a casual and stylish look to any wardrobe.",
+        "stock": "In Stock"
+    },
+    {
+        "id": 5,
+        "name": "Cotton Hoodie",
+        "price": 2700,
+        "image": "https://i.imgur.com/DdUCzSK.jpg",
+        "images": [
+            "https://i.imgur.com/DdUCzSK.jpg",
+            "https://i.imgur.com/WeTl5xL.png",
+            "https://i.imgur.com/iGJWjdd.png"
+        ],
+        "discount": "Up to 35%",
+        "rating": 4,
+        "reviews": 60,
+        "sizes": [
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "Black",
+            "Grey",
+            "Blue"
+        ],
+        "description": "A soft cotton hoodie for ultimate comfort and warmth, great for cooler days.",
+        "stock": "In Stock"
+    },
+    {
+        "id": 6,
+        "name": "Summer Shorts",
+        "price": 1200,
+        "image": "https://i.imgur.com/iGJWjdd.png",
+        "images": [
+            "https://i.imgur.com/iGJWjdd.png",
+            "https://i.imgur.com/ieKVN7Z.png",
+            "https://i.imgur.com/DdUCzSK.jpg"
+        ],
+        "discount": "Up to 20%",
+        "rating": 3,
+        "reviews": 25,
+        "sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "colors": [
+            "Khaki",
+            "Black",
+            "Blue"
+        ],
+        "description": "Perfect for the summer, these comfortable shorts are perfect for any casual outing.",
+        "stock": "In Stock"
+    },
+    {
+        "id": 7,
+        "name": "Track Pants",
+        "price": 1800,
+        "image": "https://i.imgur.com/ieKVN7Z.png",
+        "images": [
+            "https://i.imgur.com/ieKVN7Z.png",
+            "https://i.imgur.com/DdUCzSK.jpg",
+            "https://i.imgur.com/WeTl5xL.png"
+        ],
+        "discount": "Up to 15%",
+        "rating": 5,
+        "reviews": 90,
+        "sizes": [
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "colors": [
+            "Black",
+            "Grey",
+            "Navy"
+        ],
+        "description": "Comfortable track pants suitable for exercise, jogging, or lounging at home.",
+        "stock": "In Stock"
+    },
+    {
+        "id": 8,
+        "name": "Leather Jacket",
+        "price": 7500,
+        "image": "https://i.imgur.com/WeTl5xL.png",
+        "images": [
+            "https://i.imgur.com/WeTl5xL.png",
+            "https://i.imgur.com/iGJWjdd.png",
+            "https://i.imgur.com/ieKVN7Z.png"
+        ],
+        "discount": "Up to 60%",
+        "rating": 4,
+        "reviews": 55,
+        "sizes": [
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "colors": [
+            "Black",
+            "Brown",
+            "Tan"
+        ],
+        "description": "A stylish leather jacket to add sophistication to any outfit, perfect for the winter season.",
+        "stock": "Limited Stock"
+    }
+]
